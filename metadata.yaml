@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '7998'
     url: http://www.gutenberg.org/2009/agents/7998
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18399#The-ShipwreckA-Story-for-the-Young
 gutenberg_issued: '2006-05-16'
 gutenberg_type: Text
 identifiers:

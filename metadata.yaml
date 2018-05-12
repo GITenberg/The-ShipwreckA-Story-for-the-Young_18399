@@ -1,0 +1,34 @@
+_repo: The-ShipwreckA-Story-for-the-Young_18399
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Gray, Mary Richards
+    gutenberg_agent_id: '38127'
+    url: http://www.gutenberg.org/2009/agents/38127
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spillman, Joseph
+    birthdate: 1842
+    deathdate: 1905
+    gutenberg_agent_id: '7998'
+    url: http://www.gutenberg.org/2009/agents/7998
+description: ''
+gutenberg_issued: '2006-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Sea stories'
+- !lcsh 'Adventure stories'
+title: 'The Shipwreck
+
+  A Story for the Young'
+url: http://www.gutenberg.org/ebooks/18399
